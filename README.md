@@ -1,2 +1,2 @@
-# FITMATE-
+# FITMATE
 Gym choosing Companion
